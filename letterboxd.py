@@ -1,6 +1,12 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+#to export your own data
+#Log into Letterboxd.
+#Click on your username on the top navigation
+#Click on “settings”
+#Now click on the tab “Import & Export”
+#Click on “Export your data”
 
 movies =  pd.read_csv("diary.csv")
 ratings = pd.read_csv("ratings.csv")
