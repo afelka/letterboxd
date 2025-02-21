@@ -291,7 +291,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Schindler's List,1993,https://boxd.it/1xHTCF,,,,2009-11-23
 2020-12-29,Pulp Fiction,1994,https://boxd.it/1xHTCP,,,,2009-11-23
 2020-12-29,"The Good, the Bad and the Ugly",1966,https://boxd.it/1xHTCZ,,,,2009-11-23
-2020-12-29,The Godfather: Part II,1974,https://boxd.it/1xHTD9,,,,2009-11-23
+2020-12-29,The Godfather Part II,1974,https://boxd.it/1xHTD9,,,,2009-11-23
 2020-12-29,The Godfather,1972,https://boxd.it/1xHTDj,,,,2009-11-23
 2020-12-29,The Shawshank Redemption,1994,https://boxd.it/1xHTDt,,,,2009-11-23
 2020-12-29,Rejected,2000,https://boxd.it/1xHSiT,,,,2009-11-24
@@ -455,7 +455,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Irreversible,2002,https://boxd.it/1xHSLL,,,,2009-11-24
 2020-12-29,In the Mood for Love,2000,https://boxd.it/1xHSLV,,,,2009-11-24
 2020-12-29,Head-On,2004,https://boxd.it/1xHSM5,,,,2009-11-24
-2020-12-29,Good Bye Lenin!,2003,https://boxd.it/1xHSMf,,,,2009-11-24
+2020-12-29,"Good Bye, Lenin!",2003,https://boxd.it/1xHSMf,,,,2009-11-24
 2020-12-29,Giant,1956,https://boxd.it/1xHSMp,,,,2009-11-24
 2020-12-29,Ferris Bueller's Day Off,1986,https://boxd.it/1xHSMT,,,,2009-11-24
 2020-12-29,Edward Scissorhands,1990,https://boxd.it/1xHSN3,,,,2009-11-24
@@ -470,9 +470,9 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Miller's Crossing,1990,https://boxd.it/1xHSif,,,,2009-11-25
 2020-12-29,From Dusk Till Dawn,1996,https://boxd.it/1xHSip,,,,2009-11-25
 2020-12-29,House of Flying Daggers,2004,https://boxd.it/1xHSiz,,,,2009-11-25
-2020-12-29,Garden State,2004,https://boxd.it/1xHSiJ,,,,2009-11-25
+2020-12-29,Garden State,2004,https://boxd.it/1xHSiJ,5,,,2009-11-25
 2020-12-29,The Karate Kid,1984,https://boxd.it/1xHSgX,,,,2009-11-29
-2020-12-29,Shaolin Soccer,2001,https://boxd.it/1xHSh7,,,,2009-11-29
+2020-12-29,Shaolin Soccer,2001,https://boxd.it/1xHSh7,5,,,2009-11-29
 2020-12-29,2012,2009,https://boxd.it/1xHShh,,,,2009-11-29
 2020-12-29,Psycho,1960,https://boxd.it/1xHSgN,,,,2009-11-30
 2020-12-29,Ice Age,2002,https://boxd.it/1xHSgD,,,,2009-12-02
@@ -614,7 +614,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,The Big White,2005,https://boxd.it/1xHRTJ,,,,2012-02-17
 2020-12-29,The Rum Diary,2011,https://boxd.it/1xHRUn,,,,2012-02-17
 2020-12-29,Shoot 'Em Up,2007,https://boxd.it/1xHRUx,,,,2012-02-17
-2020-12-29,The Fantastic Flying Books of Mr Morris Lessmore,2011,https://boxd.it/1xHRUH,,,,2012-02-17
+2020-12-29,The Fantastic Flying Books of Mr. Morris Lessmore,2011,https://boxd.it/1xHRUH,,,,2012-02-17
 2020-12-29,Centurion,2010,https://boxd.it/1xHRUR,,,,2012-02-17
 2020-12-29,Never Let Me Go,2010,https://boxd.it/1xHRV1,,,,2012-02-17
 2020-12-29,The Class,2008,https://boxd.it/1xHRVl,,,,2012-02-17
@@ -658,7 +658,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Weird Science,1985,https://boxd.it/1xHRJp,,,,2012-03-05
 2020-12-29,The Breakfast Club,1985,https://boxd.it/1xHRJz,,,,2012-03-05
 2020-12-29,Pretty in Pink,1986,https://boxd.it/1xHRJf,,,,2012-03-07
-2020-12-29,Chaos Theory,2007,https://boxd.it/1xHRIB,,,,2012-03-13
+2020-12-29,Chaos Theory,2008,https://boxd.it/1xHRIB,,,,2012-03-13
 2020-12-29,The Night Listener,2006,https://boxd.it/1xHRIL,,,,2012-03-13
 2020-12-29,Angels & Demons,2009,https://boxd.it/1xHRIV,,,,2012-03-13
 2020-12-29,Rashomon,1950,https://boxd.it/1xHRJ5,,,,2012-03-13
@@ -675,7 +675,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,The Outraged,2012,https://boxd.it/1xHRHN,,,,2012-06-28
 2020-12-29,The Hunger Games,2012,https://boxd.it/1xHRHX,,,,2012-06-28
 2020-12-29,Away We Go,2009,https://boxd.it/1xHRI7,,,,2012-06-28
-2020-12-29,All the Little Animals,1999,https://boxd.it/1xHRIh,,,,2012-06-28
+2020-12-29,All the Little Animals,1998,https://boxd.it/1xHRIh,,,,2012-06-28
 2020-12-29,Music from Another Room,1998,https://boxd.it/1xHRIr,,,,2012-06-28
 2020-12-29,Skyfall,2012,https://boxd.it/1xHRET,,,,2013-07-20
 2020-12-29,Pacific Rim,2013,https://boxd.it/1xHRF3,,,,2013-07-20
@@ -831,7 +831,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Stranger Than Fiction,2006,https://boxd.it/1xHRhP,,,,2013-09-18
 2020-12-29,The Science of Sleep,2006,https://boxd.it/1xHRhZ,,,,2013-09-18
 2020-12-29,Perfume: The Story of a Murderer,2006,https://boxd.it/1xHRi9,,,,2013-09-18
-2020-12-29,"Paris, Je T'Aime",2006,https://boxd.it/1xHRij,,,,2013-09-18
+2020-12-29,Paris Je T'aime,2006,https://boxd.it/1xHRij,,,,2013-09-18
 2020-12-29,Little Children,2006,https://boxd.it/1xHRit,,,,2013-09-18
 2020-12-29,Inside Man,2006,https://boxd.it/1xHRiD,,,,2013-09-18
 2020-12-29,The Illusionist,2006,https://boxd.it/1xHRiN,,,,2013-09-18
@@ -958,7 +958,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Cassandra's Dream,2007,https://boxd.it/1xHQP7,,,,2014-09-23
 2020-12-29,Anything Else,2003,https://boxd.it/1xHQPh,,,,2014-09-23
 2020-12-29,Kung Fu Hustle,2004,https://boxd.it/1xHQPr,,,,2014-09-23
-2020-12-29,"I'm a Cyborg, But That's OK",2006,https://boxd.it/1xHQPB,,,,2014-09-23
+2020-12-29,"I'm a Cyborg, but That's OK",2006,https://boxd.it/1xHQPB,,,,2014-09-23
 2020-12-29,Clerks II,2006,https://boxd.it/1xHQPL,,,,2014-09-23
 2020-12-29,Mallrats,1995,https://boxd.it/1xHQPV,,,,2014-09-23
 2020-12-29,Jay and Silent Bob Strike Back,2001,https://boxd.it/1xHQQ5,,,,2014-09-23
@@ -1024,7 +1024,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Fantastic Mr. Fox,2009,https://boxd.it/1xHQCH,,,,2014-10-06
 2020-12-29,Hotel Chevalier,2007,https://boxd.it/1xHQCR,,,,2014-10-06
 2020-12-29,Your Friend the Rat,2007,https://boxd.it/1xHQD1,,,,2014-10-06
-2020-12-29,Lavatory Lovestory,2007,https://boxd.it/1xHQDb,,,,2014-10-06
+2020-12-29,Lavatory Lovestory,2006,https://boxd.it/1xHQDb,,,,2014-10-06
 2020-12-29,The Official Rare Exports Inc. Safety Instructions 2005,2005,https://boxd.it/1xHQDl,,,,2014-10-06
 2020-12-29,10 Minutes,2002,https://boxd.it/1xHQDv,,,,2014-10-06
 2020-12-29,Island,1973,https://boxd.it/1xHQDF,,,,2014-10-06
@@ -1059,7 +1059,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Shield of Straw,2013,https://boxd.it/1xHQIv,,,,2014-10-06
 2020-12-29,Simon Killer,2012,https://boxd.it/1xHQIF,,,,2014-10-06
 2020-12-29,Berberian Sound Studio,2012,https://boxd.it/1xHQIP,,,,2014-10-06
-2020-12-29,Padroni di casa,2012,https://boxd.it/1xHQIZ,,,,2014-10-06
+2020-12-29,The Landlords,2012,https://boxd.it/1xHQIZ,,,,2014-10-06
 2020-12-29,It Was the Son,2012,https://boxd.it/1xHQJ9,,,,2014-10-06
 2020-12-29,Curse of the Golden Flower,2006,https://boxd.it/1xHQJj,,,,2014-10-06
 2020-12-29,The Flowers of War,2011,https://boxd.it/1xHQJt,,,,2014-10-06
@@ -1126,7 +1126,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Boats Out of Watermelon Rinds,2004,https://boxd.it/1xHQqh,,,,2014-10-18
 2020-12-29,Propaganda,1999,https://boxd.it/1xHQqr,,,,2014-10-18
 2020-12-29,Magic Carpet Ride,2005,https://boxd.it/1xHQqB,,,,2014-10-18
-2020-12-29,Recep Ivedik,2008,https://boxd.it/1xHQqL,,,,2014-10-18
+2020-12-29,Recep İvedik,2008,https://boxd.it/1xHQqL,,,,2014-10-18
 2020-12-29,Veda - Atatürk,2010,https://boxd.it/1xHQqV,,,,2014-10-18
 2020-12-29,The Butterfly's Dream,2013,https://boxd.it/1xHQr5,,,,2014-10-18
 2020-12-29,Thou Gild'st the Even,2013,https://boxd.it/1xHQrf,,,,2014-10-18
@@ -1179,7 +1179,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Final Flight of the Osiris,2003,https://boxd.it/1xHQ5j,,,,2014-11-23
 2020-12-29,Female Perversions,1996,https://boxd.it/1xHQ5t,,,,2014-11-23
 2020-12-29,Fast Food Nation,2006,https://boxd.it/1xHQ5D,,,,2014-11-23
-2020-12-29,Eve Dönüş,2006,https://boxd.it/1xHQ5X,,,,2014-11-23
+2020-12-29,Home Coming,2006,https://boxd.it/1xHQ5X,,,,2014-11-23
 2020-12-29,Evan Almighty,2007,https://boxd.it/1xHQ67,,,,2014-11-23
 2020-12-29,Escape from the Planet of the Apes,1971,https://boxd.it/1xHQ6h,,,,2014-11-23
 2020-12-29,The City of No Limits,2002,https://boxd.it/1xHQ6r,,,,2014-11-23
@@ -1187,7 +1187,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Emmanuelle: The Joys of a Woman,1975,https://boxd.it/1xHQ6L,,,,2014-11-23
 2020-12-29,El Mariachi,1992,https://boxd.it/1xHQ6V,,,,2014-11-23
 2020-12-29,Eichmann,2007,https://boxd.it/1xHQ7z,,,,2014-11-23
-2020-12-29,Edtv,1999,https://boxd.it/1xHQ7J,,,,2014-11-23
+2020-12-29,EDtv,1999,https://boxd.it/1xHQ7J,,,,2014-11-23
 2020-12-29,Edison,2005,https://boxd.it/1xHQ7T,,,,2014-11-23
 2020-12-29,Turks in Space,2006,https://boxd.it/1xHQ83,,,,2014-11-23
 2020-12-29,Donald's Crime,1945,https://boxd.it/1xHQ8d,,,,2014-11-23
@@ -1338,7 +1338,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Samson and Delilah,2009,https://boxd.it/1xHPMh,,,,2014-11-24
 2020-12-29,Hair,2010,https://boxd.it/1xHPMr,,,,2014-11-24
 2020-12-29,As It Is in Heaven,2004,https://boxd.it/1xHPMB,,,,2014-11-24
-2020-12-29,"Run, Fatboy, Run",2007,https://boxd.it/1xHPML,,,,2014-11-24
+2020-12-29,Run Fatboy Run,2007,https://boxd.it/1xHPML,,,,2014-11-24
 2020-12-29,Rounders,1998,https://boxd.it/1xHPMV,,,,2014-11-24
 2020-12-29,Piazza Fontana: The Italian Conspiracy,2012,https://boxd.it/1xHPN5,,,,2014-11-24
 2020-12-29,Righteous Kill,2008,https://boxd.it/1xHPNf,,,,2014-11-24
@@ -1402,7 +1402,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Kid's Story,2003,https://boxd.it/1xHPXf,,,,2014-11-24
 2020-12-29,Keeping the Faith,2000,https://boxd.it/1xHPXp,,,,2014-11-24
 2020-12-29,Kate & Leopold,2001,https://boxd.it/1xHPXz,,,,2014-11-24
-2020-12-29,Perfidious Byzantine,1999,https://boxd.it/1xHPXJ,,,,2014-11-24
+2020-12-29,Perfidious Byzantine,2000,https://boxd.it/1xHPXJ,,,,2014-11-24
 2020-12-29,Jumanji,1995,https://boxd.it/1xHPXT,,,,2014-11-24
 2020-12-29,Joe Versus the Volcano,1990,https://boxd.it/1xHPY3,,,,2014-11-24
 2020-12-29,The Banishment,2007,https://boxd.it/1xHPYd,,,,2014-11-24
@@ -1485,7 +1485,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Killer's Kiss,1955,https://boxd.it/1xHPnV,,,,2015-02-26
 2020-12-29,The Runaway,2013,https://boxd.it/1xHPo5,,,,2015-02-26
 2020-12-29,Shake It All About,2001,https://boxd.it/1xHPnB,,,,2015-03-01
-2020-12-29,La Pointe-Courte,1955,https://boxd.it/1xHPnh,,,,2015-03-02
+2020-12-29,La Pointe Courte,1955,https://boxd.it/1xHPnh,,,,2015-03-02
 2020-12-29,Nightcrawler,2014,https://boxd.it/1xHPnr,,,,2015-03-02
 2020-12-29,Jar City,2006,https://boxd.it/1xHPmt,,,,2015-03-06
 2020-12-29,101 Reykjavik,2000,https://boxd.it/1xHPmD,,,,2015-03-06
@@ -1778,7 +1778,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Hot Girls Wanted,2015,https://boxd.it/1xHOZf,,,,2016-01-03
 2020-12-29,Sherlock: His Last Vow,2014,https://boxd.it/1xHOVH,,,,2016-01-09
 2020-12-29,Sherlock: The Sign of Three,2014,https://boxd.it/1xHOVR,,,,2016-01-09
-2020-12-29,Sherlock: The Empty Hearse,2013,https://boxd.it/1xHOW1,,,,2016-01-09
+2020-12-29,Sherlock: The Empty Hearse,2014,https://boxd.it/1xHOW1,,,,2016-01-09
 2020-12-29,Sherlock: The Reichenbach Fall,2012,https://boxd.it/1xHOXN,,,,2016-01-09
 2020-12-29,Sherlock: The Hounds of Baskerville,2012,https://boxd.it/1xHOXX,,,,2016-01-09
 2020-12-29,Sherlock: A Scandal in Belgravia,2012,https://boxd.it/1xHOY7,,,,2016-01-09
@@ -1803,9 +1803,10 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Siv Sleeps Astray,2016,https://boxd.it/1xHOSj,,,berlinale,2016-02-15
 2020-12-29,All of a Sudden,2016,https://boxd.it/1xHOSt,,,berlinale,2016-02-15
 2020-12-29,24 Weeks,2016,https://boxd.it/1xHOSN,,,berlinale,2016-02-15
-2020-12-29,Mahana,2016,https://boxd.it/1xHOSX,,,berlinale,2016-02-15
+2020-12-29,The Patriarch,2016,https://boxd.it/1xHOSX,,,berlinale,2016-02-15
 2020-12-29,Boris Without Beatrice,2016,https://boxd.it/1xHOT7,,,berlinale,2016-02-15
 2020-12-29,Midnight Special,2016,https://boxd.it/1xHOTh,,,berlinale,2016-02-15
+2025-02-20,Creepy,2016,https://boxd.it/8TeJDf,,,berlinale,2016-02-19
 2020-12-29,Blind Date,2015,https://boxd.it/1xHORl,,,,2016-02-27
 2020-12-29,Youth,2015,https://boxd.it/1xHORv,,,,2016-02-27
 2020-12-29,The Danish Girl,2015,https://boxd.it/1xHORZ,,,,2016-02-27
@@ -1911,7 +1912,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Ghost in the Shell,2017,https://boxd.it/1xHOAJ,,,,2017-07-12
 2020-12-29,Sausage Party,2016,https://boxd.it/1xHOAf,,,,2017-07-13
 2020-12-29,Deadpool,2016,https://boxd.it/1xHOA5,,,,2017-07-14
-2020-12-29,The Tale of the Princess Kaguya,2013,https://boxd.it/1xHOzV,,,,2017-07-15
+2020-12-29,The Tale of The Princess Kaguya,2013,https://boxd.it/1xHOzV,,,,2017-07-15
 2020-12-29,Rush,2013,https://boxd.it/1xHOzL,4,,,2017-07-16
 2021-01-07,Beauty and the Beast,1991,https://boxd.it/1zioev,4,Yes,,2017-07-16
 2021-01-07,The Bandit,1996,https://boxd.it/1zioiR,5,Yes,,2017-07-16
@@ -1943,7 +1944,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Blade Runner 2049,2017,https://boxd.it/1xHOx1,,,,2017-10-29
 2020-12-29,1922,2017,https://boxd.it/1xHOwR,,,,2017-11-02
 2020-12-29,Black Snow,2017,https://boxd.it/1xHOwH,,,,2017-11-03
-2020-12-29,Getaway Plan,2017,https://boxd.it/1xHOwx,,,,2017-11-16
+2020-12-29,Getaway Plan,2016,https://boxd.it/1xHOwx,,,,2017-11-16
 2020-12-29,Sicario,2015,https://boxd.it/1xHOwn,,,,2017-11-19
 2020-12-29,The Killing of a Sacred Deer,2017,https://boxd.it/1xHOwd,,,,2017-11-30
 2020-12-29,Murder on the Orient Express,2017,https://boxd.it/1xHOuV,,,,2017-12-11
@@ -2055,7 +2056,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,See You Yesterday,2019,https://boxd.it/1xHOc3,,,,2019-07-24
 2020-12-29,Happy Death Day,2017,https://boxd.it/1xHOcd,,,,2019-07-24
 2020-12-29,Hachi: A Dog's Tale,2009,https://boxd.it/1xHObp,,,,2019-08-22
-2020-12-29,Once Upon a Time… in Hollywood,2019,https://boxd.it/1xHObz,,,,2019-08-22
+2020-12-29,Once Upon a Time... in Hollywood,2019,https://boxd.it/1xHObz,,,,2019-08-22
 2020-12-29,The Invention of Lying,2009,https://boxd.it/1xHObf,,,,2019-09-06
 2020-12-29,47 Ronin,2013,https://boxd.it/1xHOaV,,,,2019-09-16
 2020-12-29,The Outsider,2018,https://boxd.it/1xHOb5,,,,2019-09-16
@@ -2108,6 +2109,8 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2020-12-29,Naked Animals,2020,https://boxd.it/1xHO3b,,,berlinale,2020-02-26
 2020-12-29,Hidden Away,2020,https://boxd.it/1xHO3l,,,berlinale,2020-02-26
 2020-12-29,One in a Thousand,2020,https://boxd.it/1xHO3v,,,berlinale,2020-02-26
+2025-02-20,Zero,2020,https://boxd.it/8TeDwx,0.5,,berlinale,2020-02-26
+2025-02-20,The Intruder,2020,https://boxd.it/8TeFkt,,,berlinale,2020-02-26
 2020-12-29,Taken 2,2012,https://boxd.it/1xHO1T,,,,2020-03-01
 2020-12-29,The Grey,2011,https://boxd.it/1xHO23,,,,2020-03-01
 2020-12-29,A Walk Among the Tombstones,2014,https://boxd.it/1xHO2d,,,,2020-03-01
@@ -2199,7 +2202,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2021-01-19,Outside the Wire,2021,https://boxd.it/1BeFox,2.5,,,2021-01-18
 2021-01-19,I Am So Proud of You,2008,https://boxd.it/1BeQVd,3.5,,,2021-01-18
 2021-01-19,"Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy",2020,https://boxd.it/1BkoPN,3,,,2021-01-19
-2021-01-20,Dimensions of Dialogue,1982,https://boxd.it/1Bn4Bd,5,,,2021-01-19
+2021-01-20,Dimensions of Dialogue,1983,https://boxd.it/1Bn4Bd,5,,,2021-01-19
 2021-01-20,The Change-Up,2011,https://boxd.it/1Boi6l,2.5,,,2021-01-19
 2021-01-20,The Man Who Knew Too Little,1997,https://boxd.it/1Btag3,3,,,2021-01-19
 2021-01-21,Can You Keep a Secret?,2019,https://boxd.it/1Bucbh,1.5,,,2021-01-20
@@ -2357,7 +2360,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-05-14,The Bone Collector,1999,https://boxd.it/4f5L6H,3,,,2023-05-12
 2023-06-04,Sound of Noise,2010,https://boxd.it/4kvBvJ,,Yes,,2023-06-03
 2023-06-05,The Other Side of Hope,2017,https://boxd.it/4kI35j,4.5,,,2023-06-04
-2023-06-09,"Argentina, 1985",2022,https://boxd.it/4lLWvL,4,,,2023-06-08
+2023-06-09,Argentina 1985,2022,https://boxd.it/4lLWvL,4,,,2023-06-08
 2023-06-11,"Don't Worry, He Won't Get Far on Foot",2018,https://boxd.it/4mhJhb,3.5,,,2023-06-10
 2023-06-14,Air,2023,https://boxd.it/4n95HL,4.5,,,2023-06-13
 2023-06-18,Police Academy,1984,https://boxd.it/4oa3yt,,Yes,,2023-06-16
@@ -2429,3 +2432,74 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-02-18,Another End,2024,https://boxd.it/5RpyfL,2.5,,berlinale,2024-02-18
 2024-02-19,Love Lies Bleeding,2024,https://boxd.it/5RKZSx,4.5,,berlinale,2024-02-18
 2024-02-19,The Empire,2024,https://boxd.it/5S1d7d,0.5,,berlinale,2024-02-19
+2024-02-27,Anatomy of a Fall,2023,https://boxd.it/5VgrHL,4.5,,,2024-02-26
+2024-03-04,Retribution,2023,https://boxd.it/5YajpT,1.5,,,2024-03-03
+2024-03-06,NYAD,2023,https://boxd.it/5Za34T,3,,,2024-03-05
+2024-03-11,Society of the Snow,2023,https://boxd.it/61yJJF,4.5,,,2024-03-10
+2024-03-17,The Deep End of the Ocean,1999,https://boxd.it/64ek0d,1.5,,,2024-03-16
+2024-03-24,Poor Things,2023,https://boxd.it/67DtYX,3,,,2024-03-24
+2024-03-26,Red Eye,2005,https://boxd.it/68tcm7,3.5,,,2024-03-25
+2024-03-29,Faithfully Yours,2022,https://boxd.it/69KiL1,1.5,,,2024-03-28
+2024-04-02,Land of Mine,2015,https://boxd.it/6c5AWB,3,,,2024-04-01
+2024-04-04,The Brave One,2007,https://boxd.it/6cLdGp,3.5,,,2024-04-03
+2024-04-08,Scoop,2024,https://boxd.it/6exME9,2.5,,,2024-04-07
+2024-04-11,"Extremely Wicked, Shockingly Evil and Vile",2019,https://boxd.it/6fJhpF,3.5,,,2024-04-10
+2024-04-23,O.J. & Nicole: An American Tragedy,2020,https://boxd.it/6kqC2J,2.5,,,2024-04-21
+2024-04-28,Perfect Days,2023,https://boxd.it/6mbhlj,4,,,2024-04-27
+2024-05-03,The English Patient,1996,https://boxd.it/6owJ9Z,4,,,2024-05-02
+2024-05-10,Bernard and Doris,2006,https://boxd.it/6rxvM3,2,,,2024-05-10
+2024-05-19,Unfrosted,2024,https://boxd.it/6veIJf,1.5,,,2024-05-18
+2024-05-22,Cars 2,2011,https://boxd.it/6wdaIp,2,,,2024-05-21
+2024-05-24,Disturbia,2007,https://boxd.it/6x3y19,2.5,,,2024-05-23
+2024-06-05,Dune: Part Two,2024,https://boxd.it/6C6XWP,4,,,2024-06-04
+2024-06-17,Fight Club,1999,https://boxd.it/6GP7fb,4.5,Yes,,2024-06-15
+2024-06-22,The Awakening,2011,https://boxd.it/6IIvzD,3.5,,,2024-06-21
+2024-06-23,Brimstone,2016,https://boxd.it/6JbfmV,3,,,2024-06-22
+2024-06-24,Before I Go to Sleep,2014,https://boxd.it/6JDcPV,2.5,,,2024-06-23
+2024-07-01,A Most Violent Year,2014,https://boxd.it/6Mom6X,3,,,2024-07-01
+2024-08-31,Furiosa: A Mad Max Saga,2024,https://boxd.it/7dFtj7,3.5,,,2024-08-30
+2024-09-30,Suzume,2022,https://boxd.it/7r6jif,3.5,,,2024-09-29
+2024-10-03,Perfect Blue,1997,https://boxd.it/7sq9Lv,4.5,,,2024-10-02
+2024-10-03,Millennium Actress,2001,https://boxd.it/7srQTp,4,,,2024-10-02
+2024-10-07,Joker: Folie à Deux,2024,https://boxd.it/7uLI2P,3,,,2024-10-06
+2024-10-21,The Peanuts Movie,2015,https://boxd.it/7BgDHf,3.5,,,2024-10-20
+2024-10-27,Riders of Justice,2020,https://boxd.it/7EqNH7,4,,,2024-10-26
+2024-10-30,The Game,1997,https://boxd.it/7Ga4yZ,,Yes,,2024-10-29
+2024-11-03,All Quiet on the Western Front,2022,https://boxd.it/7IhqI5,4,,,2024-11-02
+2024-11-05,Treasure,2022,https://boxd.it/7Jt3d7,2.5,,,2024-11-04
+2024-11-06,Hidden Figures,2016,https://boxd.it/7JW2A3,4,,,2024-11-05
+2024-11-07,Awakenings,1990,https://boxd.it/7Kk1J7,4.5,,,2024-11-06
+2024-11-09,The Pale Blue Eye,2022,https://boxd.it/7L6vZF,2,,,2024-11-08
+2024-11-10,American Gangster,2007,https://boxd.it/7LI5dh,3.5,,,2024-11-09
+2024-11-11,Layer Cake,2004,https://boxd.it/7Mn3Hr,4.5,Yes,,2024-11-10
+2024-11-15,Gladiator II,2024,https://boxd.it/7OrIz5,3,,,2024-11-14
+2024-11-16,The Substance,2024,https://boxd.it/7ODubR,4,,,2024-11-15
+2024-11-18,Gifted,2017,https://boxd.it/7PQT4r,3.5,,,2024-11-17
+2024-11-20,Man on Fire,2004,https://boxd.it/7QQr5P,3,,,2024-11-19
+2024-11-22,Déjà Vu,2006,https://boxd.it/7RIbcX,2.5,,,2024-11-21
+2024-11-22,Sleeping with the Enemy,1991,https://boxd.it/7RLsKN,2,,,2024-11-21
+2024-11-23,Lilla spöket Laban spökar igen,2024,https://boxd.it/7SsK9r,2.5,,,2024-11-23
+2024-12-07,Hayao Miyazaki and the Heron,2024,https://boxd.it/7Zf0AD,4.5,,,2024-12-06
+2024-12-10,Deadpool & Wolverine,2024,https://boxd.it/80P1Jx,2,,,2024-12-09
+2024-12-17,Black Narcissus,1947,https://boxd.it/84vGET,4,,,2024-12-16
+2024-12-21,The Dead Don't Hurt,2023,https://boxd.it/86B0lZ,2.5,,,2024-12-20
+2025-01-12,La Chimera,2023,https://boxd.it/8qVL7Z,4,,,2025-01-11
+2025-01-13,The Wonders,2014,https://boxd.it/8s319F,4,,,2025-01-12
+2025-01-14,An Urban Allegory,2024,https://boxd.it/8sYo0F,2,,,2025-01-13
+2025-01-16,Nosferatu,2024,https://boxd.it/8urZBv,2.5,,,2025-01-15
+2025-01-25,Witches,2024,https://boxd.it/8BhsD7,4.5,,,2025-01-24
+2025-01-26,Vagabond,1985,https://boxd.it/8C6lJz,4,,,2025-01-25
+2025-01-28,White Men Can't Jump,1992,https://boxd.it/8DSeQN,4,,,2025-01-27
+2025-01-29,An Odd Turn,2024,https://boxd.it/8EAqyf,1.5,,,2025-01-28
+2025-01-30,I Hired a Contract Killer,1990,https://boxd.it/8Fg5fv,2.5,,,2025-01-29
+2025-02-02,Happy as Lazzaro,2018,https://boxd.it/8HmIVl,3.5,,,2025-02-01
+2025-02-11,The Iron Giant,1999,https://boxd.it/8NytXp,,Yes,,2025-02-10
+2025-02-16,The Cake Dynasty,2022,https://boxd.it/8QygUf,1.5,,,2025-02-15
+2025-02-17,The Old Woman with the Knife,2025,https://boxd.it/8RpZDz,2,,berlinale,2025-02-16
+2025-02-18,Reflection in a Dead Diamond,2025,https://boxd.it/8ROOAf,2.5,,berlinale,2025-02-17
+2025-02-18,Hot Milk,2025,https://boxd.it/8S9bFR,3,,berlinale,2025-02-17
+2025-02-18,Girls on Wire,2025,https://boxd.it/8StlM9,2.5,,berlinale,2025-02-18
+2025-02-19,What Marielle Knows,2025,https://boxd.it/8SM5T7,4.5,,berlinale,2025-02-18
+2025-02-20,The Thing with Feathers,2025,https://boxd.it/8Tb94x,3.5,,berlinale,2025-02-19
+2025-02-20,Dreams,2025,https://boxd.it/8TmnWP,4,,berlinale,2025-02-19
+2025-02-20,Kontinental '25,2025,https://boxd.it/8TE8aR,1.5,,berlinale,2025-02-20

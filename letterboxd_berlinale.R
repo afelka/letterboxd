@@ -43,7 +43,7 @@ for(i in seq_len(nrow(berlinale))) {
   content3 <- httr::content(get_request3)
   
   image_url <- content3 %>% 
-    html_node(xpath = '//img[@class="poster"]') %>%
+    html_node(xpath = '//img[@class="poster w-full"]') %>%
     html_attr("src")
   
   image_name <- paste0(gsub(" ","_",str_to_lower(gsub("[^[:alnum:][:space:]]","",title))),".jpg")
@@ -51,6 +51,8 @@ for(i in seq_len(nrow(berlinale))) {
   berlinale$title[i] <- title
   berlinale$image_url[i] <- image_url
   berlinale$image_name[i] <- image_name
+  
+  if (file.exists(image_name)) {next}
   
   download.file(image_url, destfile = image_name ,mode = "wb")
   
@@ -66,10 +68,11 @@ berlinale <- berlinale %>% group_by(berlinale_year) %>% mutate(watched_number = 
 
 #add manually downloaded festival posters
 berlinale_poster_rows <- data.frame(
-  Name = c("Berlinale 2024","Berlinale 2023","Berlinale 2020","Berlinale 2019","Berlinale 2017","Berlinale 2016","Berlinale 2015" ),
-  berlinale_year = c(2024,2023,2020,2019,2017,2016,2015),
-  watched_number = c(0,0,0,0,0,0,0),
-  image_name = c("berlinale_2024.jpg",
+  Name = c("Berlinale 2025","Berlinale 2024","Berlinale 2023","Berlinale 2020","Berlinale 2019","Berlinale 2017","Berlinale 2016","Berlinale 2015" ),
+  berlinale_year = c(2025,2024,2023,2020,2019,2017,2016,2015),
+  watched_number = c(0,0,0,0,0,0,0,0),
+  image_name = c("berlinale_2025.jpg",
+                 "berlinale_2024.jpg",
                  "berlinale_2023.jpg",
                  "berlinale_2020.jpg",
                  "berlinale_2019.jpg",
@@ -85,7 +88,7 @@ berlinale_posters_added$berlinale_year <- as.factor(berlinale_posters_added$berl
 
 #create ggplot
 berlinale_movies <- ggplot(berlinale_posters_added, aes(y = berlinale_year, x = watched_number, label = as.character(berlinale_year))) +
-  geom_image(aes(image = image_name), size = 0.08) +
+  geom_image(aes(image = image_name), size = 0.07) +
   labs(title = "Movies Watched in Berlinale over the Years") +
   theme_classic() +
   scale_y_discrete() +
