@@ -90,7 +90,7 @@ berlinale_posters_added$berlinale_year <- as.factor(berlinale_posters_added$berl
 
 #create ggplot
 berlinale_movies <- ggplot(berlinale_posters_added, aes(y = berlinale_year, x = watched_number, label = as.character(berlinale_year))) +
-  geom_image(aes(image = image_name), size = 0.07) +
+  geom_image(aes(image = image_name), size = 0.06) +
   labs(title = "Movies Watched in Berlinale over the Years") +
   theme_classic() +
   scale_y_discrete() +
