@@ -232,7 +232,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2021-01-19,Outside the Wire,2021,https://boxd.it/taq6,2.5
 2021-01-19,I Am So Proud of You,2008,https://boxd.it/1h0e,3.5
 2021-01-19,"Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy",2020,https://boxd.it/rc3Y,3
-2021-01-20,Dimensions of Dialogue,1982,https://boxd.it/1FPq,5
+2021-01-20,Dimensions of Dialogue,1983,https://boxd.it/1FPq,5
 2021-01-20,The Change-Up,2011,https://boxd.it/FRu,2.5
 2021-01-20,The Man Who Knew Too Little,1997,https://boxd.it/1YKa,3
 2021-01-21,Can You Keep a Secret?,2019,https://boxd.it/jAma,1.5
@@ -287,7 +287,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2022-03-18,The Power of the Dog,2021,https://boxd.it/m99E,1.5
 2022-03-20,The Matrix Resurrections,2021,https://boxd.it/n87k,2.5
 2022-03-27,Nightmare Alley,2021,https://boxd.it/m0HC,2.5
-2022-03-28,The French Dispatch,2021,https://boxd.it/jLP8,2.5
+2022-03-28,"The French Dispatch of the Liberty, Kansas Evening Sun",2021,https://boxd.it/jLP8,2.5
 2022-03-28,Turning Red,2022,https://boxd.it/ipkq,4
 2022-03-29,Belfast,2021,https://boxd.it/tefG,4.5
 2022-03-30,Encanto,2021,https://boxd.it/kPRu,3
@@ -313,6 +313,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2022-07-11,What If,2013,https://boxd.it/6ljk,3
 2022-07-12,While We're Young,2014,https://boxd.it/7oOs,3
 2022-07-14,Fantastic Beasts: The Secrets of Dumbledore,2022,https://boxd.it/bg8Q,1.5
+2022-07-14,PIECES OF HER,2022,https://boxd.it/Trba,2.5
 2022-07-19,Roadrunner: A Film About Anthony Bourdain,2021,https://boxd.it/nRb2,3.5
 2022-07-24,The Gray Man,2022,https://boxd.it/rb7q,1.5
 2022-07-26,Ad Astra,2019,https://boxd.it/ePzI,2
@@ -366,7 +367,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2023-05-08,Chokehold,2023,https://boxd.it/zCGo,2
 2023-05-14,The Bone Collector,1999,https://boxd.it/1Yzw,3
 2023-06-05,The Other Side of Hope,2017,https://boxd.it/fcFE,4.5
-2023-06-09,"Argentina, 1985",2022,https://boxd.it/qLxM,4
+2023-06-09,Argentina 1985,2022,https://boxd.it/qLxM,4
 2023-06-11,"Don't Worry, He Won't Get Far on Foot",2018,https://boxd.it/fLeo,3.5
 2023-06-14,Air,2023,https://boxd.it/Arlc,4.5
 2023-07-02,Boston Strangler,2023,https://boxd.it/xfiY,4
@@ -427,3 +428,135 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-02-18,Another End,2024,https://boxd.it/F94s,2.5
 2024-02-19,Love Lies Bleeding,2024,https://boxd.it/zN4q,4.5
 2024-02-19,The Empire,2024,https://boxd.it/z2YG,0.5
+2024-02-27,Anatomy of a Fall,2023,https://boxd.it/yuDE,4.5
+2024-03-04,Retribution,2023,https://boxd.it/sDxy,1.5
+2024-03-06,NYAD,2023,https://boxd.it/xOSM,3
+2024-03-11,Society of the Snow,2023,https://boxd.it/y9aw,4.5
+2024-03-17,The Deep End of the Ocean,1999,https://boxd.it/1key,1.5
+2024-03-24,Poor Things,2023,https://boxd.it/tNWU,3
+2024-03-26,Red Eye,2005,https://boxd.it/1TNy,3.5
+2024-03-29,Faithfully Yours,2022,https://boxd.it/CZ86,1.5
+2024-04-02,Land of Mine,2015,https://boxd.it/b5ee,3
+2024-04-04,The Brave One,2007,https://boxd.it/24nG,3.5
+2024-04-08,Scoop,2024,https://boxd.it/EZu6,2.5
+2024-04-11,"Extremely Wicked, Shockingly Evil and Vile",2019,https://boxd.it/glCG,3.5
+2024-04-23,O.J. & Nicole: An American Tragedy,2020,https://boxd.it/tSAu,2.5
+2024-04-28,Perfect Days,2023,https://boxd.it/ATh8,4
+2024-05-03,The English Patient,1996,https://boxd.it/2arE,4
+2024-05-10,Bernard and Doris,2006,https://boxd.it/16CQ,2
+2024-05-19,Unfrosted,2024,https://boxd.it/vPY8,1.5
+2024-05-22,Cars,2006,https://boxd.it/29ho,3.5
+2024-05-22,Cars 2,2011,https://boxd.it/H4Y,2
+2024-05-22,Cars on the Road,2022,https://boxd.it/DalA,2.5
+2024-05-24,Disturbia,2007,https://boxd.it/20rk,2.5
+2024-06-05,Dune: Part Two,2024,https://boxd.it/pUfA,4
+2024-06-22,The Awakening,2011,https://boxd.it/2HzG,3.5
+2024-06-23,Brimstone,2016,https://boxd.it/ayqQ,3
+2024-06-24,Before I Go to Sleep,2014,https://boxd.it/69du,2.5
+2024-07-01,A Most Violent Year,2014,https://boxd.it/75Va,3
+2024-08-31,Furiosa: A Mad Max Saga,2024,https://boxd.it/tABk,3.5
+2024-09-30,Suzume,2022,https://boxd.it/yv7Y,3.5
+2024-10-03,Perfect Blue,1997,https://boxd.it/1W7A,4.5
+2024-10-03,Millennium Actress,2001,https://boxd.it/1fK0,4
+2024-10-07,Joker: Folie à Deux,2024,https://boxd.it/xBoE,3
+2024-10-21,The Peanuts Movie,2015,https://boxd.it/6Jci,3.5
+2024-10-27,Riders of Justice,2020,https://boxd.it/oHQc,4
+2024-11-03,All Quiet on the Western Front,2022,https://boxd.it/H08,4
+2024-11-05,Treasure,2022,https://boxd.it/CYfK,2.5
+2024-11-06,Hidden Figures,2016,https://boxd.it/dgS4,4
+2024-11-07,Awakenings,1990,https://boxd.it/1USu,4.5
+2024-11-09,The Pale Blue Eye,2022,https://boxd.it/u8tk,2
+2024-11-10,American Gangster,2007,https://boxd.it/23wi,3.5
+2024-11-11,Layer Cake,2004,https://boxd.it/23LC,4.5
+2024-11-15,Gladiator II,2024,https://boxd.it/kqQQ,3
+2024-11-16,The Substance,2024,https://boxd.it/zanS,4
+2024-11-18,Gifted,2017,https://boxd.it/e5dG,3.5
+2024-11-20,Man on Fire,2004,https://boxd.it/1Yvk,3
+2024-11-22,Déjà Vu,2006,https://boxd.it/20PQ,2.5
+2024-11-22,Sleeping with the Enemy,1991,https://boxd.it/20Xq,2
+2024-11-23,Lilla spöket Laban spökar igen,2024,https://boxd.it/QqWI,2.5
+2024-11-29,Shaolin Soccer,2001,https://boxd.it/1T86,5
+2024-11-29,Garden State,2004,https://boxd.it/2asW,5
+2024-12-07,Hayao Miyazaki and the Heron,2024,https://boxd.it/Njam,4.5
+2024-12-10,Deadpool & Wolverine,2024,https://boxd.it/jq8s,2
+2024-12-17,Black Narcissus,1947,https://boxd.it/1Kce,4
+2024-12-21,The Dead Don't Hurt,2023,https://boxd.it/D30A,2.5
+2025-01-12,La Chimera,2023,https://boxd.it/vzVi,4
+2025-01-13,The Wonders,2014,https://boxd.it/7Urq,4
+2025-01-14,An Urban Allegory,2024,https://boxd.it/KLzS,2
+2025-01-16,Nosferatu,2024,https://boxd.it/f5eG,2.5
+2025-01-25,Witches,2024,https://boxd.it/MDaa,4.5
+2025-01-26,Vagabond,1985,https://boxd.it/T0u,4
+2025-01-28,White Men Can't Jump,1992,https://boxd.it/1WWy,4
+2025-01-29,An Odd Turn,2024,https://boxd.it/KQJ4,1.5
+2025-01-30,I Hired a Contract Killer,1990,https://boxd.it/20J4,2.5
+2025-02-02,Happy as Lazzaro,2018,https://boxd.it/hiVs,3.5
+2025-02-16,The Cake Dynasty,2022,https://boxd.it/AGqm,1.5
+2025-02-17,The Old Woman with the Knife,2025,https://boxd.it/LquE,2
+2025-02-18,Reflection in a Dead Diamond,2025,https://boxd.it/CjmU,2.5
+2025-02-18,Hot Milk,2025,https://boxd.it/zbyi,3
+2025-02-18,Girls on Wire,2025,https://boxd.it/MCvw,2.5
+2025-02-19,What Marielle Knows,2025,https://boxd.it/Ss5g,4.5
+2025-02-20,The Thing with Feathers,2025,https://boxd.it/GDVS,3.5
+2025-02-20,Zero,2020,https://boxd.it/oLEa,0.5
+2025-02-20,Dreams,2025,https://boxd.it/GTZw,4
+2025-02-20,Kontinental '25,2025,https://boxd.it/SdKo,1.5
+2025-03-01,Beasts of the Southern Wild,2012,https://boxd.it/2XPK,3.5
+2025-03-31,Flow,2024,https://boxd.it/v1Ei,2.5
+2025-04-07,Lee,2023,https://boxd.it/vpTG,2.5
+2025-04-23,Conclave,2024,https://boxd.it/AO8q,4.5
+2025-04-27,Past Lives,2023,https://boxd.it/oNB8,3.5
+2025-05-05,A Simple Favor,2018,https://boxd.it/hq92,3
+2025-05-10,All of Us Strangers,2023,https://boxd.it/Bz3C,4
+2025-05-24,Mickey 17,2025,https://boxd.it/q1Dk,4
+2025-06-08,The Mountain Between Us,2017,https://boxd.it/95jO,3
+2025-06-09,Dark Crimes,2016,https://boxd.it/bkGs,1.5
+2025-06-12,Sex and Lucía,2001,https://boxd.it/28UE,4
+2025-06-16,Carnal Knowledge,1971,https://boxd.it/1au2,3.5
+2025-06-18,Working Girl,1988,https://boxd.it/25ha,3.5
+2025-06-20,The Conversation,1974,https://boxd.it/2a38,3.5
+2025-07-06,Devil's Knot,2013,https://boxd.it/4Otu,3
+2025-07-07,Juror #2,2024,https://boxd.it/FRwU,3
+2025-07-08,The Lovely Bones,2009,https://boxd.it/20IA,4
+2025-08-02,Strange Darling,2023,https://boxd.it/CVIk,4
+2025-08-07,Sinners,2025,https://boxd.it/KQMM,4
+2025-08-08,Longlegs,2024,https://boxd.it/KzLM,3
+2025-08-12,How to Make Millions Before Grandma Dies,2024,https://boxd.it/FLa4,4
+2025-08-16,Carol,2015,https://boxd.it/7DPK,2.5
+2025-08-18,The Amateur,2025,https://boxd.it/F9NW,2
+2025-08-18,Copycat,1995,https://boxd.it/28ga,3.5
+2025-08-21,The Mauritanian,2021,https://boxd.it/nWiM,3
+2025-08-24,Holy Spider,2022,https://boxd.it/xBn2,4.5
+2025-08-27,Spider-Man: Across the Spider-Verse,2023,https://boxd.it/kSz4,4.5
+2025-08-30,Honest Thief,2020,https://boxd.it/keES,1.5
+2025-09-02,In the Land of Saints and Sinners,2023,https://boxd.it/CQsQ,3
+2025-10-05,Mark Felt: The Man Who Brought Down the White House,2017,https://boxd.it/dCpe,3
+2025-10-12,Run All Night,2015,https://boxd.it/76p0,2
+2025-10-21,The Phoenician Scheme,2025,https://boxd.it/H0Ca,3.5
+2025-10-25,Carnage,2011,https://boxd.it/2peU,4
+2025-11-09,Lotte & Totte – My First Friend,2025,https://boxd.it/Rk80,3
+2025-11-15,Weapons,2025,https://boxd.it/EMTM,3.5
+2025-11-19,The French Connection,1971,https://boxd.it/296g,4
+2025-12-13,Wake Up Dead Man,2025,https://boxd.it/uAKS,3.5
+2025-12-16,The Mastermind,2025,https://boxd.it/Q7ge,2.5
+2025-12-16,The Marco Effect,2021,https://boxd.it/oxOU,3.5
+2025-12-20,Shortbus,2006,https://boxd.it/28So,3.5
+2025-12-23,One Battle After Another,2025,https://boxd.it/DUHM,3.5
+2025-12-26,Jim's Winter,2003,https://boxd.it/sCZQ,2.5
+2025-12-26,Where is the Land of Christmas?,2006,https://boxd.it/sF6Y,0.5
+2025-12-27,Fanny and Alexander,1982,https://boxd.it/22go,4
+2025-12-28,Goodbye June,2025,https://boxd.it/T55Y,4
+2026-01-01,The Roses,2025,https://boxd.it/MjnI,2.5
+2026-01-04,Paris Is Burning,1990,https://boxd.it/1jzg,5
+2026-01-04,Sexual Drive,2021,https://boxd.it/tgkI,2.5
+2026-01-11,The End,2024,https://boxd.it/xfAe,1
+2026-01-17,One Last Adventure: The Making of Stranger Things 5,2026,https://boxd.it/10310,4
+2026-01-20,The Maze Runner,2014,https://boxd.it/5YPM,2.5
+2026-02-05,When Mumbo Jumbo Grew Giant,2026,https://boxd.it/KdRS,2.5
+2026-02-07,Tokyo-Ga,1985,https://boxd.it/2DyE,3.5
+2026-02-15,Only Rebels Win,2026,https://boxd.it/BNXa,2.5
+2026-02-16,Everybody Digs Bill Evans,2026,https://boxd.it/R4HI,2.5
+2026-02-16,Papaya,2025,https://boxd.it/X7vM,3
+2026-02-16,The Moment,2026,https://boxd.it/SCkg,4
+2026-02-17,Dao,2026,https://boxd.it/GWqO,2
+2026-02-17,Salvation,2026,https://boxd.it/RTM0,2.5
