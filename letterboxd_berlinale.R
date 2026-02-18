@@ -25,7 +25,7 @@ for(i in seq_len(nrow(berlinale))) {
   
   films_main_url <- paste0("https://letterboxd.com", 
                     content %>%
-                    html_node(xpath = "//span[@class='film-title-wrapper']//a") %>%
+                    html_node(xpath = "//header[@class='inline-production-masthead -film']//a") %>%
                     html_attr("href"))
   
   get_request2 <- httr::GET(films_main_url)
@@ -98,7 +98,7 @@ berlinale_movies <- ggplot(berlinale_posters_added, aes(y = berlinale_year, x = 
         axis.line = element_blank(),
         axis.text.x = element_blank(),
         axis.text.y = element_text(size = 12, face = "bold")) +
-  #to distingusih between festival posters and movie posters
+  #to distinguish between festival posters and movie posters
   geom_vline(xintercept = 0.25, linetype = "solid", color = "red", linewidth = 1)
 
 #save ggplot
