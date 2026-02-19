@@ -71,7 +71,7 @@ berlinale_poster_rows <- data.frame(
   Name = c("Berlinale 2026","Berlinale 2025","Berlinale 2024","Berlinale 2023","Berlinale 2020",
            "Berlinale 2019","Berlinale 2017","Berlinale 2016","Berlinale 2015" ),
   berlinale_year = c(2026,2025,2024,2023,2020,2019,2017,2016,2015),
-  watched_number = c(0,0,0,0,0,0,0,0,0),
+  watched_number = c(rep(0,9)),
   image_name = c("berlinale_2026.jpg",
                  "berlinale_2025.jpg",
                  "berlinale_2024.jpg",
